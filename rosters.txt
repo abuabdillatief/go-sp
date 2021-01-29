@@ -1,0 +1,33 @@
+2021/01/29 23:27:33 took 1.486823901s
+eb.nhl.com/api/v1/teams/8/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/9/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/10/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/12/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/13/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/4/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/14/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/15/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/1/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/16/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/2/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/17/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/18/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/19/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/20/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/21/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/7/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/3/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/28/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/24/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/25/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/5/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/23/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/26/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/52/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/29/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/53/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/30/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/54/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/22/roster <<< link
+2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/6/roster <<< link
+2021/01/29 23:17:34 took 1.433770685s

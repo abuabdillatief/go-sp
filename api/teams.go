@@ -76,3 +76,5 @@ func GetAllTeams() ([]Team, error) {
 	err = json.NewDecoder(res.Body).Decode(&resp)
 	return resp.Teams, err
 }
+
+

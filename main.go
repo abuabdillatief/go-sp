@@ -4,6 +4,7 @@ import (
 	"io"
 	"log"
 	"os"
+	"sync"
 	"time"
 
 	"github.com/abuabdillatief/go-sp/api"
@@ -23,11 +24,35 @@ func main() {
 	if err != nil {
 		log.Fatalf("error while getting all teams: %s", err)
 	}
+	var wg sync.WaitGroup
+	wg.Add(len(teams))
+	results := make(chan []api.Roster)
+
 	for _, team := range teams {
-		log.Println("===========================")
-		log.Printf("Name: %s", team.Name)
-		log.Printf("Venue: %v", team.Venue)
-		log.Println("===========================")
+		go func(team api.Team) {
+			roster, err := api.GetRosters(team.ID)
+			if err != nil {
+				log.Fatalf("error getting rosters: %v", err)
+			}
+			results <- roster
+			wg.Done()
+		}(team)
 	}
+
+	wg.Wait()
+	close(results)
+
+	display(results)
 	log.Printf("took %v", time.Now().Sub(now).String())
+}
+
+func display(results chan []api.Roster) {
+	for tr := range results {
+		for _, r := range tr {
+			log.Println("==================")
+			log.Printf("Name: %s\n", r.Person.FullName)
+			log.Printf("ID: %d\n", r.Person.ID)
+			log.Printf("Postion: %s\n", r.Position.Name)
+		}
+	}
 }
