@@ -11,12 +11,12 @@ import (
 
 func main() {
 	now := time.Now()
-	roosterFile, err := os.OpenFile("roosters.txt", os.O_RDWR|os.O_CREATE, 0666)
+	rosterFile, err := os.OpenFile("rosters.txt", os.O_RDWR|os.O_CREATE, 0666)
 	if err != nil {
-		log.Fatalf("error opening the fi le roosters.txt: %s", err)
+		log.Fatalf("error opening the fi le rosters.txt: %s", err)
 	}
-	defer roosterFile.Close()
-	w := io.MultiWriter(os.Stdout, roosterFile)
+	defer rosterFile.Close()
+	w := io.MultiWriter(os.Stdout, rosterFile)
 	log.SetOutput(w)
 
 	teams, err := api.GetAllTeams()
@@ -26,6 +26,7 @@ func main() {
 	for _, team := range teams {
 		log.Println("===========================")
 		log.Printf("Name: %s", team.Name)
+		log.Printf("Venue: %v", team.Venue)
 		log.Println("===========================")
 	}
 	log.Printf("took %v", time.Now().Sub(now).String())
