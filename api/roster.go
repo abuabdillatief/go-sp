@@ -36,7 +36,8 @@ type nhlRostersResponse struct {
 //GetRosters ...
 func GetRosters(teamID int) ([]Roster, error) {
 	var response nhlRostersResponse
-	res, err := http.Get(fmt.Sprintf("%s/teams/%d/roster", baseURL, teamID))
+	url := fmt.Sprintf("%s/teams/%d/roster", baseURL, teamID)
+	res, err := http.Get(url)
 	if err != nil {
 		return nil, err
 	}

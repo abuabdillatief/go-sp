@@ -1,33 +1,212 @@
-2021/01/29 23:27:33 took 1.486823901s
-eb.nhl.com/api/v1/teams/8/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/9/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/10/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/12/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/13/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/4/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/14/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/15/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/1/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/16/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/2/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/17/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/18/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/19/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/20/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/21/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/7/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/3/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/28/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/24/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/25/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/5/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/23/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/26/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/52/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/29/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/53/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/30/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/54/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/22/roster <<< link
-2021/01/29 23:17:34 https://statsapi.web.nhl.com/api/v1/teams/6/roster <<< link
-2021/01/29 23:17:34 took 1.433770685s
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/8/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/14/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/13/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/15/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/9/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/16/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/17/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/10/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/12/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/25/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/19/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/18/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/20/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/26/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/21/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/28/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/22/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/29/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/23/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/30/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/52/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/53/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/54/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/6/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/5/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/2/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/1/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/4/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/3/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/7/roster
+2021/01/30 14:04:26 https://statsapi.web.nhl.com/api/v1/teams/24/roster
+2021/01/30 14:04:26 
+ &{[] 0xc0000cc280 <nil> <nil>} <==rs
+2021/01/30 14:04:26 start []
+2021/01/30 14:04:26 
+ &{[] 0xc0000cc380 <nil> <nil>} <==rs
+2021/01/30 14:04:26 start []
+2021/01/30 14:04:26 
+ &{[] 0xc000494180 <nil> <nil>} <==rs
+2021/01/30 14:04:26 start []
+2021/01/30 14:04:27 
+ &{[] 0xc00034ed40 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc0000ccbc0 <nil> <nil>} <==rs
+2021/01/30 14:04:27 
+ &{[] 0xc00034edc0 <nil> <nil>} <==rs
+2021/01/30 14:04:27 
+ &{[] 0xc0004945c0 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc0000ccc40 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc0000ccd40 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc00034e040 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc000494180 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc0000cc1c0 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc000494240 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc00034e0c0 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc00034e140 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc00034eb00 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc00034eb80 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc0000cc340 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc0004942c0 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc00034ec00 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc0000cc3c0 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc000494340 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc0000cc440 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc00034ec80 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc0004943c0 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc0000cc4c0 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc00034ed40 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc00034f200 <nil> <nil>} <==rs
+2021/01/30 14:04:27 
+ &{[] 0xc00034f280 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc00034e3c0 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 
+ &{[] 0xc000494100 <nil> <nil>} <==rs
+2021/01/30 14:04:27 start []
+2021/01/30 14:04:27 took 1.877338144s
+] Vary:[Accept-Encoding] Via:[1.1 2aabea8a9cbe7f03f67c33c45d1d592d.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[rVbcnD5bdnAdjQW6i-UD4UB8bpAu7xDgGKYIeluD_DnRIAHMYANHOg==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc0001e3d60 -1 [chunked] false true map[] 0xc00051a500 0xc0004384d0} <==rs
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:17 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 e5b400e87b472dfb2af4c76ff5f85869.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[Zq5r4atFou6efpV5RbDL_d_3wz41aHNJnzo2ypoET_KSGntNbWCwrw==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc000240d60 -1 [chunked] false true map[] 0xc00051a400 0xc0003fe2c0} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:16 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 db8d6eb1919ade2943f4a573a505ba67.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[x1ReloKJjkL7Uf-G-3qMpbW532VMhp9TBKrNjMuvzD5z0JdFQgCTXQ==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc0002410e0 -1 [chunked] false true map[] 0xc000488100 0xc00052a9a0} <==rs
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:17 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 a372f2a2c858a55a472ec9d3d1c6b817.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[La4Vy5xnucWgBMOLFgta4ZVRH9_UCM90nzsWLHmogXqcLeYFLeJAbg==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc000252360 -1 [chunked] false true map[] 0xc00051aa00 0xc00052a8f0} <==rs
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:16 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 c49128c626a54e52d9677041ba76a534.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[gDAThjV2JJvFwSM9lR5T1VtM0sHmp-yLi2KjqkmBPwzFfU_sz0LJDQ==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc000231b40 -1 [chunked] false true map[] 0xc00051a000 0xc0002abc30} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:16 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 61bff898c9646bbcc7f7eadde4d76fe5.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[lqJit-nK4MtltYeX5IJ1ZoODM404cRBdJbRaIFo-2t5KtrA38KB9pQ==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc000231e80 -1 [chunked] false true map[] 0xc000136500 0xc0000be210} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:16 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 e5b400e87b472dfb2af4c76ff5f85869.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[zymtymFgeZKCLRzBeF2MDuMxaFnW-OU6Wc9lyBGbdQ9MTvvR26EP7A==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc00008f9c0 -1 [chunked] false true map[] 0xc0000b6200 0xc0003fe370} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:16 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 0afae887d1f4306bda4c7ef1dea46b9b.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[bFoZ3WS3CumrVn5pNt3iFZ-Kgi7oY4D0KA5enceZdAVDQPp9b7osOQ==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc000204180 -1 [chunked] false true map[] 0xc0000b6100 0xc000438000} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:17 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 08244b1866fe32276ce5a76c3d8b5ec7.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[lNaBc6IVrZRR53JKxkXHidQwpOvINBdmwHXIBxl8uMxvszh4whWjNw==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc00008f680 -1 [chunked] false true map[] 0xc000488200 0xc000438580} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:16 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 824b6b17b59323f523bbeab054eeb246.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[m0sEi2v2AN1IcmQQum0Tmbf1y6Sa5s14tESNPc_iltM7G_frPm5rlg==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc000227900 -1 [] false true map[] 0xc00051a200 0xc0000be2c0} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:16 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 2db56a73a9d0486b15ff1dc828be02a7.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[Dkzy0sK4DVTDEYPQAl4UUSagkmy_WESr69WLquu94U5vPjWZ-J5RoQ==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc000227c20 -1 [chunked] false true map[] 0xc000136700 0xc0000be370} <==rs
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:17 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 60a12bdf784c46a5874f83b517e37279.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[9Brr3_uB9UMRwUSVkTgSqGPB-h2mJ2xzCRyCoyDBbCTnf2Fh-x0U0w==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc0002044c0 -1 [chunked] false true map[] 0xc0000b6300 0xc000438630} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:17 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 2db56a73a9d0486b15ff1dc828be02a7.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[SwFsiwClQHz2S0II0kjzzUEuKHMkpLQTcvWI2-cIwvfil5T84SucrQ==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc000252720 -1 [chunked] false true map[] 0xc000488300 0xc0003fe420} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:17 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 bea183074c7c8354f695008780705c96.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[zDTeivKOmDLsSOusjb6Q-F_1pij2kTTrRc8Vsjhd_KHX2qkOokA8rQ==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc00008fd20 -1 [chunked] false true map[] 0xc000136800 0xc00052a000} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:17 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 6b0d2463e38d8b2224f25b309fde2ba3.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[DzSksA83orVlu79y3hUSAReFLQjOrz6pGgS5z4DdNKfC7qKfqJkbyg==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc000190060 -1 [chunked] false true map[] 0xc00051ac00 0xc00052aa50} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:17 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 f651505f69d4004d8a3662c44e02ec6f.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[Mx0N62Oy9fEQ3iqfX09POQRuQf0AWeA3aRcshrkvt_D0hKzprltsTw==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc000190380 -1 [chunked] false true map[] 0xc00051a100 0xc0004380b0} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:17 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 cd09c7e66aa65f123adc53975394570d.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[_13K52uD6D4VHxJvJtvFOY_49NR7LDsj7qbDN6BsVRstaIGMQIBrWQ==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc0001906a0 -1 [chunked] false true map[] 0xc00051a600 0xc0003fe4d0} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:17 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 501f8f2b34478d387447d1479e77dfd2.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[LIfiiw7k3IvUmOtTyJ2ZbZQsFtOYm1iqrcfkJAuk07UfgU8Zu59JXg==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc000190a20 -1 [chunked] false true map[] 0xc000488000 0xc0000be420} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:16 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 ccd5ce8e69d2dc421327946b6ecb3cbc.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[74S7vVyfJbW_IQoL7OpH2WW9cfUD0X78QxP0aNu3kKXmm-BNjM1-Hw==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc000252a40 -1 [chunked] false true map[] 0xc000136600 0xc0000be4d0} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:16 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 08244b1866fe32276ce5a76c3d8b5ec7.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[3ghpTAdY5-42E7WyKSN5EsJ2MnJmnefZLneYQDP6jk9VpU6dWpRjkg==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc000227fa0 -1 [chunked] false true map[] 0xc00051a300 0xc0004386e0} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:17 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 824b6b17b59323f523bbeab054eeb246.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[ilhw_NXrbbqxKDC9oYvELQiYANJKHVWvE9tItu33Jx1y3ts40afTsw==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc0001fa340 -1 [] false true map[] 0xc00051ab00 0xc00052ab00} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:17 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 b0b2bb3b21ed20feab951c611319321f.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[kX7Qa54S_zvq7XgPWk_vD5fPJkkVIWoBhqvly62KsQ4SbLBowf-SdQ==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc0001fa6a0 -1 [] false true map[] 0xc00051a900 0xc0003fe580} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:16 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 e5b400e87b472dfb2af4c76ff5f85869.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[bMHxydgKopGY73bKmXkaNijna8sl1-wFUm-T-NdfyPF4Af-wbLTXIA==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc000190d40 -1 [chunked] false true map[] 0xc000488700 0xc0003fe2c0} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:17 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 e7dacb0efeeed58e9fdd0c9cd774981b.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[wCE5cdn3RLN0d3nD7L-12JHn7e_wwr3z1EbAIXvHf7smfvsLN-vYcw==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc0001910c0 -1 [] false true map[] 0xc000488400 0xc0000be580} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:17 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 2aabea8a9cbe7f03f67c33c45d1d592d.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[Ss8QwreTX4MaPlVsY3Q3gYKOWLDPXZ424FBDmDxSQCXMCk3lMjydow==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc0001913e0 -1 [chunked] false true map[] 0xc000136900 0xc0004384d0} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:16 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 5e9560902c947c0c0082c46d3ef672b9.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[KwS3vQfoiQobfKWVVcsTDOAYvmhNlHBkPcYgQK8cDsCfx9UWgyxOoA==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc000191760 -1 [chunked] false true map[] 0xc000136b00 0xc000438160} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:17 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 501f8f2b34478d387447d1479e77dfd2.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[fAK1wbDGegLAx3xohuUelbjNekeYEni6IAwDvhCAFCsA78eEzUNufA==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc000191b00 -1 [chunked] false true map[] 0xc000488500 0xc000438790} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:16 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 0cd88f29d8c6e29a267867c45efda9a9.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[zAl7IiK0ZZO0Xmsoob0qY15BwVyhX6eF19JNB6KTb4hEnANDbjQE0w==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc000191e40 -1 [chunked] false true map[] 0xc000136a00 0xc00052a0b0} <==rs
+2021/01/30 14:04:10 
+ &{200 OK 200 HTTP/1.1 1 1 map[Access-Control-Allow-Credentials:[true] Access-Control-Allow-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Access-Control-Allow-Methods:[GET, POST, PUT, DELETE, OPTIONS] Access-Control-Allow-Origin:[*] Access-Control-Expose-Headers:[Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization] Age:[53] Cache-Control:[max-age=60, public] Connection:[keep-alive] Content-Type:[application/json;charset=UTF-8] Date:[Sat, 30 Jan 2021 07:03:16 GMT] Expires:[Sat, 30 Jan 2021 07:04:17 GMT] Server:[Apache-Coyote/1.1] Vary:[Accept-Encoding] Via:[1.1 cd09c7e66aa65f123adc53975394570d.cloudfront.net (CloudFront)] X-Amz-Cf-Id:[Sg38oP9HL9ZH6ky0SuxDZQo21JDHI1hHgJBL2GsaSLQDfM-a5elbBQ==] X-Amz-Cf-Pop:[SIN52-C2] X-Cache:[Hit from cloudfront]] 0xc00000e4c0 -1 [chunked] false true map[] 0xc000488600 0xc0000be160} <==rs
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 start []
+2021/01/30 14:04:10 took 333.800362ms

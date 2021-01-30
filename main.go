@@ -39,10 +39,10 @@ func main() {
 		}(team)
 	}
 
+	display(results)
 	wg.Wait()
 	close(results)
 
-	display(results)
 	log.Printf("took %v", time.Now().Sub(now).String())
 }
 
